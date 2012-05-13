@@ -14,3 +14,5 @@ end
 gem 'jquery-rails'
 
 gem 'private_pub'
+gem 'unicorn'
+gem 'capistrano'
